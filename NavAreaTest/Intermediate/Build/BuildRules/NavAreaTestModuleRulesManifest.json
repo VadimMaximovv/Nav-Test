@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Unreal Projects\\NavAreaTest\\Source\\NavAreaTest\\NavAreaTest.Build.cs",
+		"D:\\Unreal Projects\\NavAreaTest\\Source\\NavAreaTest.Target.cs",
+		"D:\\Unreal Projects\\NavAreaTest\\Source\\NavAreaTestEditor.Target.cs"
+	],
+	"EngineVersion": "5.3.1"
+}

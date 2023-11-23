@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "NavAreaTest",
+			"Path": "..\\Source\\NavAreaTest.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "NavAreaTestEditor",
+			"Path": "..\\Source\\NavAreaTestEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

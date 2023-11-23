@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-NavAreaTest.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Unreal Projects\NavAreaTest\Intermediate\Build\Win64\x64\NavAreaTestEditor\Development\UnrealEd\SharedPCH.UnrealEd.Cpp20.InclOrderUnreal5_0.h.obj"
+"D:\Unreal Projects\NavAreaTest\Intermediate\Build\Win64\x64\UnrealEditor\Development\NavAreaTest\MyNavArea.gen.cpp.obj"
+"D:\Unreal Projects\NavAreaTest\Intermediate\Build\Win64\x64\UnrealEditor\Development\NavAreaTest\NavAreaTest.init.gen.cpp.obj"
+"D:\Unreal Projects\NavAreaTest\Intermediate\Build\Win64\x64\UnrealEditor\Development\NavAreaTest\NavAreaTest.cpp.obj"
+"D:\Unreal Projects\NavAreaTest\Intermediate\Build\Win64\x64\UnrealEditor\Development\NavAreaTest\MyNavArea.cpp.obj"
+"D:\Unreal Projects\NavAreaTest\Intermediate\Build\Win64\x64\UnrealEditor\Development\NavAreaTest\Default.rc2.res"
+/OUT:"D:\Unreal Projects\NavAreaTest\Intermediate\Build\Win64\x64\UnrealEditor\Development\NavAreaTest\UnrealEditor-NavAreaTest.lib"
